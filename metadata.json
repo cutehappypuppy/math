@@ -1,0 +1,5 @@
+{
+  "name": "Sum Dash: Math Puzzle",
+  "description": "A fast-paced math elimination game. Combine numbers to reach the target sum and prevent the blocks from reaching the top.",
+  "requestFramePermissions": []
+}
